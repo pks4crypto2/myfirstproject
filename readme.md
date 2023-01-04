@@ -7,4 +7,4 @@ Simple readme file
 
 ##Testing Diff command"
 
-this is going to be a problem
+this is going to be fun
