@@ -3,3 +3,8 @@
 Simple readme file
 
 ##Testing update
+
+
+##Testing Diff command"
+
+Add a branch
